@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">🚀 𝕭𝖍𝖆𝖗𝖆𝖙 𝕲𝖔𝖘𝖜𝖆𝖒𝖎 🚀</h1>
+<h2 align="center"> 𝕭𝖍𝖆𝖗𝖆𝖙 𝕲𝖔𝖘𝖜𝖆𝖒𝖎 </h2>
 
 ### AI & ML Student | Python Developer | Backend Enthusiast
 
