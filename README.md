@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./Bharat-Goswami-6-7-2026(1).png" width="125%">
+  <img src="./Bharat-Goswami-6-7-2026 (1).png" width="125%">
 </div>
 ### AI & ML Student | Python Developer | Backend Enthusiast
 
