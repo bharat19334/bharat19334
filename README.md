@@ -1,7 +1,5 @@
 <div align="center">
-
-<img src="https://cdn.textstudio.com/output/sample/normal/8/4/9/6/bharat-logo-275-26948.png" alt="Bharat Logo" width="700">
-
+  <img src="./Bharat-Goswami-6-7-2026.png" width="100%">
 </div>
 ### AI & ML Student | Python Developer | Backend Enthusiast
 
