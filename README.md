@@ -1,6 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Bharat%20Goswami&fontSize=60&fontAlign=50&fontAlignY=40" />
-</div>
+<h1 align="center">🚀 𝕭𝖍𝖆𝖗𝖆𝖙 𝕲𝖔𝖘𝖜𝖆𝖒𝖎 🚀</h1>
 
 ### AI & ML Student | Python Developer | Backend Enthusiast
 
