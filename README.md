@@ -1,10 +1,10 @@
 <div align="center">
 
-# 🚀 Bharat Goswami
+# Bharat Goswami
 
-### Transforming Ideas into Intelligent Solutions
+### AI & ML Student | Python Developer | Backend Enthusiast
 
-**AI & Machine Learning • Backend Development • Data Analytics**
+Building intelligent applications and continuously learning modern technologies.
 
 <br>
 
@@ -22,11 +22,11 @@
 
 ## 👨‍💻 About Me
 
-I am a Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning with a strong passion for building impactful technology solutions.
+I am a B.Tech Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning.
 
-My interests span across AI, Backend Development, Data Analytics, and Software Engineering. I enjoy solving complex problems, developing scalable applications, and continuously learning modern technologies that create real-world impact.
+I enjoy building intelligent applications using Python and exploring technologies related to AI, Backend Development, Data Analytics, and Software Engineering.
 
-Currently focused on strengthening my expertise in Python, FastAPI, Databases, Data Analysis, and Machine Learning while building practical projects that bridge innovation and usability.
+My current learning journey focuses on Deep Learning, AI Agents, MCP Servers, FastAPI, PostgreSQL, and Data Structures & Algorithms. I believe in learning by building real-world projects and continuously improving my problem-solving skills.
 
 ---
 
@@ -42,7 +42,6 @@ Currently focused on strengthening my expertise in Python, FastAPI, Databases, D
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-FF9800?style=for-the-badge)
 ![Web Scraping](https://img.shields.io/badge/Web%20Scraping-4CAF50?style=for-the-badge)
-![Local Hosting](https://img.shields.io/badge/Local%20Hosting-607D8B?style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -54,37 +53,33 @@ Currently focused on strengthening my expertise in Python, FastAPI, Databases, D
 ## 🎯 Current Focus
 
 - Artificial Intelligence & Machine Learning
+- Deep Learning
+- AI Agents
+- MCP Servers
 - Backend Development with FastAPI
-- PostgreSQL & Database Design
-- Data Analysis & Data Visualization
-- Web Scraping & Data Collection
+- PostgreSQL Database Management
 - Data Structures & Algorithms
-- Building Real-World Applications
+- Building Real-World AI Projects
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
-### ❤️ Heart Disease Prediction using AI
-AI-powered solution designed to assist in predicting heart-related conditions through machine learning techniques.
+### 🫁 COPD Prediction System using Machine Learning
 
-### 🔐 FastAPI Authentication System
-Secure authentication and authorization system using FastAPI and JWT.
+Developed a machine learning-based healthcare solution designed to predict Chronic Obstructive Pulmonary Disease (COPD) using patient health data and predictive analytics techniques.
 
-### 📊 Data Analytics Dashboard
-Interactive dashboards for analyzing and visualizing data effectively.
-
-### 🌐 Web Scraping Automation
-Automated data extraction and processing solutions built with Python.
+The project focuses on early disease risk assessment, intelligent prediction, and data-driven healthcare support.
 
 ---
 
 ## 🌱 Currently Learning
 
-- Machine Learning
+- Deep Learning
+- AI Agents
+- MCP Server Development
 - Advanced FastAPI
 - PostgreSQL Optimization
-- Software Architecture
 - System Design
 
 ---
