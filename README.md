@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center"> 💻 𝑯𝒊, 𝑰'𝒎 𝑩𝒉𝒂𝒓𝒂𝒕 𝑮𝒐𝒔𝒘𝒂𝒎𝒊 </h1>
+<img src="https://cdn.textstudio.com/output/sample/normal/8/4/9/6/bharat-logo-321-26948.png" alt="Bharat Logo" width="600"/>
 
 ### AI & ML Student | Python Developer | Backend Enthusiast
 
