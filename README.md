@@ -1,6 +1,6 @@
 <div align="center">
 
-# Bharat Goswami
+# 𝓑𝓱𝓪𝓻𝓪𝓽 𝓖𝓸𝓼𝔀𝓪𝓶𝓲
 
 ### AI & ML Student | Python Developer | Backend Enthusiast
 
