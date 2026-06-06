@@ -1,6 +1,6 @@
 <div align="center">
 
-# 𝓑𝓱𝓪𝓻𝓪𝓽 𝓖𝓸𝓼𝔀𝓪𝓶𝓲
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Bharat%20Goswami&fontSize=60&fontAlign=50&fontAlignY=40" />
 
 ### AI & ML Student | Python Developer | Backend Enthusiast
 
