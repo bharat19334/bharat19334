@@ -1,27 +1,30 @@
-<h1 align="center">Hi 👋, I'm Bharat Goswami</h1>
-<h3 align="center">AI & ML Enthusiast | Python Developer | Backend Learner | Problem Solver</h3>
+<div align="center">
 
-<p align="center">
-Passionate about building intelligent solutions, exploring modern technologies, and solving real-world problems through code.
-</p>
+# Bharat Goswami
+
+### Artificial Intelligence & Machine Learning Engineer in Progress
+
+Building intelligent solutions with Python, Backend Technologies, and Data-Driven Systems.
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bharatgoswami19)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/bharat19334)
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-🎓 B.Tech Computer Science Engineering (AI & ML)
+I am a Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning, focused on building scalable applications and solving real-world problems through technology.
 
-💡 Passionate about Artificial Intelligence, Machine Learning, and Backend Development.
+My interests span across AI, Backend Development, Data Analysis, and Software Engineering. I enjoy transforming ideas into practical solutions while continuously improving my problem-solving and development skills.
 
-🔭 Currently working on improving my Data Structures & Algorithms, Backend Development, and AI skills.
-
-🌱 Learning FastAPI, PostgreSQL, Machine Learning, and scalable application development.
-
-⚡ Regularly solving coding problems and building projects to strengthen problem-solving abilities.
-
-🎯 Goal: Become a skilled AI Engineer capable of building impactful and production-ready solutions.
+Currently, I am exploring modern backend architectures, databases, machine learning concepts, and real-world project development.
 
 ---
+
 ## 💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -35,85 +38,42 @@ Passionate about building intelligent solutions, exploring modern technologies, 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/bharatgoswami19">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/bharat19334">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
 
 ---
 
-## 📊 GitHub Statistics
+## 🎯 Current Focus
 
-![](https://github-readme-stats.vercel.app/api?username=bharat19334&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=bharat19334&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bharat19334&layout=compact&theme=tokyonight)
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=bharat19334&theme=tokyonight&no-frame=true&margin-w=15)
-
----
-
-## 📈 Contribution Graph
-
-[![Bharat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bharat19334&theme=tokyo-night)](https://github.com/bharat19334)
+- Artificial Intelligence & Machine Learning
+- Backend Development with FastAPI
+- PostgreSQL Database Design
+- Data Analysis & Automation
+- Web Scraping Solutions
+- Data Structures & Algorithms
+- Open Source Learning
 
 ---
 
 ## 🚀 Featured Projects
 
-### ❤️ Heart Disease Prediction using AI
-
-Predicting heart disease using AI models and medical image analysis.
+### ❤️ AI-Based Heart Disease Prediction
+Predicting heart disease using machine learning and medical imaging techniques.
 
 ### 🔐 FastAPI Authentication System
-
-JWT Authentication and Authorization using FastAPI.
+Secure authentication and authorization using JWT and FastAPI.
 
 ### 📊 Data Analysis Dashboard
-
-Interactive dashboard built with Pandas and Streamlit.
+Interactive dashboards powered by Pandas and Streamlit.
 
 ### 🌐 Web Scraping Automation
-
-Automated data collection and processing using Python.
-
----
-
-## 🎯 Current Goals
-
-✔ Strengthen Data Structures & Algorithms
-
-✔ Master FastAPI and PostgreSQL
-
-✔ Build Production-Ready Projects
-
-✔ Explore Advanced Machine Learning
-
-✔ Contribute to Open Source
-
-✔ Secure an AI/ML Internship
+Automated data extraction and processing solutions using Python.
 
 ---
 
-## ⚡ Quote
+## 📫 Connect
 
-"Success is the result of consistent effort, continuous learning, and disciplined execution."
+- LinkedIn: www.linkedin.com/in/bharatgoswami19
+- GitHub: github.com/bharat19334
 
 ---
 
-<p align="center">
-⭐ Thanks for visiting my profile!
-</p>
+### "Turning ideas into intelligent solutions through code."
