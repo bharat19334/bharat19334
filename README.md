@@ -1,6 +1,8 @@
 <div align="center">
-<img src="https://cdn.textstudio.com/output/sample/normal/8/4/9/6/bharat-logo-321-26948.png" alt="Bharat Logo" width="600"/>
 
+<img src="https://cdn.textstudio.com/output/sample/normal/8/4/9/6/bharat-logo-275-26948.png" alt="Bharat Logo" width="700">
+
+</div>
 ### AI & ML Student | Python Developer | Backend Enthusiast
 
 Building intelligent applications and continuously learning modern technologies.
