@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=35&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=Bharat+Goswami;AI+%26+ML+Engineer+in+Progress;Python+Developer+%7C+Data+Analytics+Enthusiast;Building+AI-Powered+Solutions" />
 </p>
+### AI & ML Engineer in Progress • Python Developer • Data Analytics Enthusiast
 
 <br>
 
