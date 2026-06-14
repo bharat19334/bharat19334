@@ -73,27 +73,16 @@ My current learning journey focuses on Deep Learning, AI Agents, MCP Servers, Fa
 💻 Active DSA Learner
 🚀 Building AI & Backend Projects
 
-## 🎯 Current Focus
+--- 
 
-- Artificial Intelligence & Machine Learning
-- Deep Learning
-- AI Agents
-- MCP Servers
-- Backend Development with FastAPI
-- PostgreSQL Database Management
-- Data Structures & Algorithms
-- Building Real-World AI Projects
+## 🚀 What I'm Working On
 
----
-
-## 🌱 Currently Learning
-
-- Deep Learning
-- AI Agents
-- MCP Server Development
-- Advanced FastAPI
-- PostgreSQL Optimization
-- System Design
+* 🤖 Building AI & Machine Learning Projects
+* 📊 Performing Data Analytics on Real-World Datasets
+* 🌐 Developing Web Scraping Applications
+* 💻 Practicing Data Structures & Algorithms
+* ⚡ Learning FastAPI and Backend Development
+* 🗄️ Working with PostgreSQL Databases
 
 ---
 
