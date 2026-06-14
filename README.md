@@ -67,11 +67,9 @@ My current learning journey focuses on Deep Learning, AI Agents, MCP Servers, Fa
 
 ---
 
-🏆 Achievements
-🎓 B.Tech CSE (AI & ML) Student
-🤖 Completed Generative AI Learning Programs
+## 🏆 Achievements
+
 📊 Built Data Analytics Projects
-🌐 Developed Web Scraping Applications
 💻 Active DSA Learner
 🚀 Building AI & Backend Projects
 
@@ -104,8 +102,6 @@ My current learning journey focuses on Deep Learning, AI Agents, MCP Servers, Fa
 📧 **Email:** bharatgoswami49200619@gmail.com
 
 💼 **LinkedIn:** https://www.linkedin.com/in/bharatgoswami19
-
-💻 **GitHub:** https://github.com/bharat19334
 
 ---
 
