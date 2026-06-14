@@ -1,5 +1,5 @@
 <div align="center",size> 
-  <img src="./Bharat-Goswami-6-7-2026 (1).png" width="120%",height="300">   
+  <h1>Bharat Goswami</h1>   
 
 ### AI & ML Student | Python Developer | Backend Enthusiast  
 
@@ -28,6 +28,18 @@ I enjoy building intelligent applications using Python and exploring technologie
 My current learning journey focuses on Deep Learning, AI Agents, MCP Servers, FastAPI, PostgreSQL, and Data Structures & Algorithms. I believe in learning by building real-world projects and continuously improving my problem-solving skills.
 
 ---
+## 🚀 Featured Projects
+
+| Project                    | Description                                                                                                                                    | Repository                     |
+| -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------ |
+| 🚆 Railway Delay Analysis  | Data analysis project that explores train delay patterns, identifies major causes of delays, and provides insights through data visualization. | [View Project](YOUR_LINK_HERE) |
+| 🏏 IPL Data Analysis       | Exploratory Data Analysis (EDA) on IPL datasets to uncover team performance trends, player statistics, and match insights.                     | [View Project](YOUR_LINK_HERE) |
+| 🌐 Web Scraping Project    | Automated data extraction project using Python to collect, clean, and organize web data for further analysis.                                  | [View Project](YOUR_LINK_HERE) |
+| 📚 DSA Practice Repository | Collection of Data Structures & Algorithms solutions, coding patterns, and problem-solving approaches.                                         | [View Project](YOUR_LINK_HERE) |
+| 🫁 COPD Prediction System  | Machine Learning-based healthcare project for predicting COPD risk using patient health parameters.                                            | [View Project](YOUR_LINK_HERE) |
+
+---
+
 
 ## 💻 Tech Stack
 
