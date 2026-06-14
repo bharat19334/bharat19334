@@ -1,10 +1,6 @@
-<div align="center">
-
-# Bharat Goswami
-
-### AI & ML Engineer in Progress • Python Developer • Data Analytics Enthusiast
-
-Building intelligent systems, solving real-world problems, and continuously exploring Artificial Intelligence, Machine Learning, Backend Development, and Data Analytics.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=35&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=Bharat+Goswami;AI+%26+ML+Engineer+in+Progress;Python+Developer+%7C+Data+Analytics+Enthusiast;Building+AI-Powered+Solutions" />
+</p>
 
 <br>
 
