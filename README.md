@@ -74,6 +74,15 @@ My current learning journey focuses on Deep Learning, AI Agents, MCP Servers, Fa
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=bharat19334&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
 
 ## 🎯 Current Focus
 
