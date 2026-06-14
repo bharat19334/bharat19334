@@ -73,16 +73,16 @@ My current learning journey focuses on Deep Learning, AI Agents, MCP Servers, Fa
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
----
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[<img src="https://github-profile-trophy.vercel.app/?username=bharat19334&theme=tokyonight&no-frame=true&row=1&column=6"/>](https://github-readme-stats.vercel.app/api?username=bharat19334&show_icons=true)
-
-</div>
 
 ---
+
+🏆 Achievements
+🎓 B.Tech CSE (AI & ML) Student
+🤖 Completed Generative AI Learning Programs
+📊 Built Data Analytics Projects
+🌐 Developed Web Scraping Applications
+💻 Active DSA Learner
+🚀 Building AI & Backend Projects
 
 ## 🎯 Current Focus
 
@@ -94,16 +94,6 @@ My current learning journey focuses on Deep Learning, AI Agents, MCP Servers, Fa
 - PostgreSQL Database Management
 - Data Structures & Algorithms
 - Building Real-World AI Projects
-
----
-
-## 🚀 Featured Project
-
-### 🫁 COPD Prediction System using Machine Learning
-
-Developed a machine learning-based healthcare solution designed to predict Chronic Obstructive Pulmonary Disease (COPD) using patient health data and predictive analytics techniques.
-
-The project focuses on early disease risk assessment, intelligent prediction, and data-driven healthcare support.
 
 ---
 
@@ -131,5 +121,6 @@ The project focuses on early disease risk assessment, intelligent prediction, an
 <div align="center">
 
 ### 💡 "Consistency Builds Excellence."
+🚀 Building intelligent systems through continuous learning and practical implementation.
 
 </div>
