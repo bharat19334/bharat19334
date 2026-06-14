@@ -18,16 +18,7 @@ Building intelligent systems, solving real-world problems, and continuously expl
 
 </div>
 
-
 <br>
-
-<a href="https://www.linkedin.com/in/bharatgoswami19">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="https://github.com/bharat19334">
-<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
-</a>
 
 </div>
 
