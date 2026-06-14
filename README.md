@@ -37,11 +37,11 @@ My current learning journey focuses on Deep Learning, AI Agents, MCP Servers, Fa
 
 | Project                    | Description                                                                                                                                    | Repository                     |
 | -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------ |
-| 🚆 Railway Delay Analysis  | Data analysis project that explores train delay patterns, identifies major causes of delays, and provides insights through data visualization. | [View Project](YOUR_LINK_HERE) |
-| 🏏 IPL Data Analysis       | Exploratory Data Analysis (EDA) on IPL datasets to uncover team performance trends, player statistics, and match insights.                     | [View Project](YOUR_LINK_HERE) |
-| 🌐 Web Scraping Project    | Automated data extraction project using Python to collect, clean, and organize web data for further analysis.                                  | [View Project](YOUR_LINK_HERE) |
+| 🚆 Railway Delay Analysis  | Data analysis project that explores train delay patterns, identifies major causes of delays, and provides insights through data visualization. | [View Project](https://github.com/bharat19334/Data-Science-Projects/blob/main/Railway-delay-analysis.ipynb) |
+| 🏏 IPL Data Analysis       | Exploratory Data Analysis (EDA) on IPL datasets to uncover team performance trends, player statistics, and match insights.                     | [View Project](https://github.com/bharat19334/Data-Science-Projects/blob/main/IPL%20Match%20Analysis(2008-2026).ipynb) |
+| 🌐 Web Scraping Project    | Automated data extraction project using Python to collect, clean, and organize web data for further analysis.                                  | [View Project](https://github.com/bharat19334/Data-Science-Projects/blob/2c1102d0fdda88e1fadd375d5d2956392501a841/Web%20Scraping/Books%20to%20Scrape/BeautifulSoup.ipynb) |
 | 📚 DSA Practice Repository | Collection of Data Structures & Algorithms solutions, coding patterns, and problem-solving approaches.                                         | [View Project](YOUR_LINK_HERE) |
-| 🫁 COPD Prediction System  | Machine Learning-based healthcare project for predicting COPD risk using patient health parameters.                                            | [View Project](YOUR_LINK_HERE) |
+| 🫁 COPD Prediction System  | Machine Learning-based healthcare project for predicting COPD risk using patient health parameters.                                            | [View Project](https://github.com/bharat19334/COPD_CARE_AI) |
 
 ---
 
