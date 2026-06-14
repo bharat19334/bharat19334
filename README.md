@@ -78,7 +78,7 @@ My current learning journey focuses on Deep Learning, AI Agents, MCP Servers, Fa
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=bharat19334&theme=tokyonight&no-frame=true&row=1&column=6"/>
+[<img src="https://github-profile-trophy.vercel.app/?username=bharat19334&theme=tokyonight&no-frame=true&row=1&column=6"/>](https://github-readme-stats.vercel.app/api?username=bharat19334&show_icons=true)
 
 </div>
 
