@@ -8,8 +8,6 @@
 ### AI & ML Engineer in Progress • Python Developer • Data Analytics Enthusiast
 
 Building intelligent systems, solving real-world problems, and continuously exploring Artificial Intelligence, Machine Learning, Backend Development, and Data Analytics.
-</div>
-<br>
 
 <a href="https://www.linkedin.com/in/bharatgoswami19">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
