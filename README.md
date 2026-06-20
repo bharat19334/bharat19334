@@ -36,13 +36,14 @@ My current learning journey focuses on Deep Learning, AI Agents, MCP Servers, Fa
 ---
 ## 🚀 Featured Projects
 
-| Project                    | Description                                                                                                                                    | Repository                     |
-| -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------ |
-| 🚆 Railway Delay Analysis  | Data analysis project that explores train delay patterns, identifies major causes of delays. | [View Project](https://github.com/bharat19334/Data-Science-Projects/blob/main/Railway-delay-analysis.ipynb) |
-| 🏏 IPL Data Analysis       | Exploratory Data Analysis on IPL datasets to uncover team performance trends.                     | [View Project](https://github.com/bharat19334/Data-Science-Projects/blob/main/IPL%20Match%20Analysis(2008-2026).ipynb) |
-| 🌐 Web Scraping Project    | Automated data extraction project using Python to collect, clean, and organize web data.                                  | [View Project](https://github.com/bharat19334/Data-Science-Projects/blob/2c1102d0fdda88e1fadd375d5d2956392501a841/Web%20Scraping/Books%20to%20Scrape/BeautifulSoup.ipynb) |
-| 📚 DSA Practice Repository | Collection of Data Structures & Algorithms solutions.                                         | [View Project](https://github.com/bharat19334/DeepAlgoMinds) |
-| 🫁 COPD Prediction System  | Machine Learning healthcare project for predicting COPD risk using patient health parameters.                                            | [View Project](https://github.com/bharat19334/COPD_CARE_AI) |
+| Project                                                                                                                                          | Description                                                   | Tech Stack                        |
+| ------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------- | --------------------------------- |
+| [🚆 Railway Delay Analysis](https://github.com/bharat19334/Data-Science-Projects/blob/main/Railway-delay-analysis.ipynb)                         | Analyzed train delay patterns and operational inefficiencies. | Python, Pandas, NumPy, Matplotlib |
+| [🏏 IPL Data Analysis](https://github.com/bharat19334/Data-Science-Projects/blob/main/IPL%20Match%20Analysis%282008-2026%29.ipynb)               | Explored IPL datasets to uncover team and player insights.    | Python, Pandas, NumPy, Matplotlib |
+| [🌐 Web Scraping Project](https://github.com/bharat19334/Data-Science-Projects/blob/main/Web%20Scraping/Books%20to%20Scrape/BeautifulSoup.ipynb) | Automated web data extraction and cleaning workflows.         | Python, BeautifulSoup, Requests   |
+| [📚 DSA Practice Repository](https://github.com/bharat19334/DeepAlgoMinds)                                                                       | Collection of Data Structures & Algorithms solutions.         | Python, DSA, Algorithms           |
+| [🫁 COPD Care AI](https://github.com/bharat19334/COPD_CARE_AI)                                                                                   | Machine Learning system for COPD risk prediction.             | Python, Scikit-Learn, Pandas      |
+
 
 ---
 
