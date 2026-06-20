@@ -68,6 +68,14 @@ My current learning journey focuses on Deep Learning, AI Agents, MCP Servers, Fa
 
 
 ---
+## 📈 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bharat19334&show_icons=true&include_all_commits=true"/>
+
+</div>
+---
 
 ## 🏆 Achievements
 
