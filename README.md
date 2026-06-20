@@ -1,13 +1,11 @@
 <div align="center">
-<h1 style="color:blue;font-family:Poppins;">
-  👨‍💻 Bharat Goswami
-</div>
+# 👋 Hi, I'm Bharat Goswami
 
-<div align="center">
-
-### AI & ML Engineer in Progress • Python Developer • Data Analytics Enthusiast
+### AI & ML Engineer | Python Developer | Data Analytics Enthusiast
 
 Building intelligent systems, solving real-world problems, and continuously exploring Artificial Intelligence, Machine Learning, Backend Development, and Data Analytics.
+<div align="center">
+
 
 <a href="https://www.linkedin.com/in/bharatgoswami19">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
