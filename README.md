@@ -40,7 +40,7 @@ My current learning journey focuses on Deep Learning, AI Agents, MCP Servers, Fa
 | [🚆 Railway Delay Analysis](https://github.com/bharat19334/Data-Science-Projects/blob/main/Railway-delay-analysis.ipynb)                         | Analyzed train delay patterns and operational inefficiencies. | Python, Pandas, NumPy, Matplotlib |
 | [🏏 IPL Data Analysis](https://github.com/bharat19334/Data-Science-Projects/blob/main/IPL%20Match%20Analysis%282008-2026%29.ipynb)               | Explored IPL datasets to uncover team and player insights.    | Python, Pandas, NumPy, Matplotlib |
 | [🌐 Web Scraping Project](https://github.com/bharat19334/Data-Science-Projects/blob/main/Web%20Scraping/Books%20to%20Scrape/BeautifulSoup.ipynb) | Automated web data extraction and cleaning workflows.         | Python, BeautifulSoup, Requests   |
-| [📚 DSA Practice Repository](https://github.com/bharat19334/DeepAlgoMinds)                                                                       | Collection of Data Structures & Algorithms solutions.         | Python, DSA, Algorithms           |
+| [📚 DSA Practice Repository](https://github.com/bharat19334/Python-DSA)                                                                       | Collection of Data Structures & Algorithms solutions.         | Python, DSA, Algorithms           |
 | [🫁 COPD Care AI](https://github.com/bharat19334/COPD_CARE_AI)                                                                                   | Machine Learning system for COPD risk prediction.             | Python, Scikit-Learn, Pandas      |
 
 
