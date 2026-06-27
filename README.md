@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Bharat Goswami
 
-### AI & ML Engineer | Python Developer | Data Analytics Enthusiast
+### AI & ML | Python Developer | Data Analytics Enthusiast
 
 Building intelligent systems, solving real-world problems, and continuously exploring Artificial Intelligence, Machine Learning, Backend Development, and Data Analytics.
 <div align="center">
@@ -100,6 +100,7 @@ My current learning journey focuses on Deep Learning, AI Agents, MCP Servers, Fa
 📧 **Email:** bharatgoswami49200619@gmail.com
 
 💼 **LinkedIn:** https://www.linkedin.com/in/bharatgoswami19
+
 
 ---
 
