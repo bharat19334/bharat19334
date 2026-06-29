@@ -4,16 +4,6 @@
    👋 Hi, I'm Bharat Goswami
 </h1>
 
-<h3 align="center">
-  AI & ML Engineer | Python Developer | Data Analyst
-</h3>
-
-<p align="center">
-  <a href="https://github.com/bharat19334">
-    <img src="https://skillicons.dev/icons?i=github" width="40"/>
-  </a>
-  &nbsp;&nbsp;
-
 ### AI & ML | Python Developer | Data Analytics Enthusiast
 
 Building intelligent systems, solving real-world problems, and continuously exploring Artificial Intelligence, Machine Learning, Backend Development, and Data Analytics.
