@@ -50,6 +50,12 @@ My current learning journey focuses on Deep Learning, AI Agents, MCP Servers, Fa
 
 ## 💻 Tech Stack
 
+<h2 align="center">💻 Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,react,nodejs,fastapi,mysql,postgres,mongodb,git,github,docker,linux,vscode,tensorflow,pytorch&perline=6" />
+</p>
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
