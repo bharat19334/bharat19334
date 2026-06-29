@@ -2,6 +2,33 @@
   
 # 👋 Hi, I'm Bharat Goswami
 
+<h1 align="center">
+  👑 Bharat Goswami
+</h1>
+
+<h3 align="center">
+  AI & ML Engineer | Python Developer | Data Analyst
+</h3>
+
+<p align="center">
+  <a href="https://github.com/bharat19334">
+    <img src="https://skillicons.dev/icons?i=github" width="40"/>
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40"/>
+  </a>
+  &nbsp;&nbsp;
+
+  📍 India
+</p>
+
 ### AI & ML | Python Developer | Data Analytics Enthusiast
 
 Building intelligent systems, solving real-world problems, and continuously exploring Artificial Intelligence, Machine Learning, Backend Development, and Data Analytics.
