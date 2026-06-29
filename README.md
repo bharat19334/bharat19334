@@ -1,9 +1,7 @@
 <div align="center">
   
-# 👋 Hi, I'm Bharat Goswami
-
 <h1 align="center">
-  👑 Bharat Goswami
+   👋 Hi, I'm Bharat Goswami
 </h1>
 
 <h3 align="center">
@@ -15,19 +13,6 @@
     <img src="https://skillicons.dev/icons?i=github" width="40"/>
   </a>
   &nbsp;&nbsp;
-
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
-  </a>
-  &nbsp;&nbsp;
-
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40"/>
-  </a>
-  &nbsp;&nbsp;
-
-  📍 India
-</p>
 
 ### AI & ML | Python Developer | Data Analytics Enthusiast
 
@@ -119,10 +104,18 @@ My current learning journey focuses on Deep Learning, AI Agents, MCP Servers, Fa
 
 ## 📫 Connect With Me
 
-📧 **Email:** bharatgoswami49200619@gmail.com
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
+  </a>
+  &nbsp;&nbsp;
 
-💼 **LinkedIn:** https://www.linkedin.com/in/bharatgoswami19
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40"/>
+  </a>
+  &nbsp;&nbsp;
 
+  📍 India
+</p>
 
 ---
 
