@@ -52,17 +52,13 @@ My current learning journey focuses on Deep Learning, AI Agents, MCP Servers, Fa
   <img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,js,react,nodejs,fastapi,mysql,postgres,mongodb,docker,git,github,linux,vscode,tensorflow,pytorch,opencv,sklearn,anaconda,postman&theme=dark&perline=8" />
 </p>
 ---
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Bharat+Goswami;AI+%26+ML+Engineer;Full+Stack+Developer;Data+Science+Enthusiast)](https://git.io/typing-svg)
-
---- 
-
 ## 📈 GitHub Statistics
 
-<div align="center">
+![](https://github-readme-stats.vercel.app/api?username=bharat19334&show_icons=true&theme=tokyonight&hide_border=true)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bharat19334&show_icons=true"/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=bharat19334&theme=tokyonight&hide_border=true)
 
-</div>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bharat19334&layout=compact&theme=tokyonight&hide_border=true)>
 ---
 
 ## 🏆 Achievements
