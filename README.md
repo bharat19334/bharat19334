@@ -53,6 +53,17 @@ My current learning journey focuses on Deep Learning, AI Agents, MCP Servers, Fa
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bharat19334&repo=COPD_CARE_AI&theme=tokyonight)](https://github.com/bharat19334/COPD_CARE_AI)
 
+
+## 🚀 Featured Projects
+
+| ⭐ Project | 📖 Overview | ⚙️ Core Technologies |
+|:----------|:------------|:---------------------|
+| 🚆 **[Railway Delay Analytics](https://github.com/bharat19334/YOUR_REPO)** | Engineered a data analytics solution to identify railway delay trends, operational bottlenecks, and actionable performance insights through visualization. | **Python • Pandas • NumPy • Matplotlib** |
+| 🏏 **[IPL Performance Analytics](https://github.com/bharat19334/YOUR_REPO)** | Conducted comprehensive exploratory data analysis on IPL datasets to uncover player, team, and season-wise performance insights. | **Python • Pandas • NumPy • Matplotlib** |
+| 🌐 **[Web Scraping Automation](https://github.com/bharat19334/YOUR_REPO)** | Designed automated web scraping pipelines for extracting, cleaning, and transforming large-scale web data into structured datasets. | **Python • BeautifulSoup • Requests** |
+| 📚 **[DSA Practice Repository](https://github.com/bharat19334/DATA-STRUCTURE-AND-ALGORITHUM)** | Curated a pattern-based collection of optimized Data Structures & Algorithms solutions with detailed problem-solving approaches. | **Python • DSA • Algorithms** |
+| 🫁 **[COPD Care AI](https://github.com/bharat19334/COPD_CARE_AI)** | Developed an AI-powered machine learning system for early COPD risk prediction using healthcare data and predictive analytics. | **Python • Scikit-learn • Pandas • NumPy** |
+
 ---
 ## 💻 Tech Stack
 
