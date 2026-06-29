@@ -38,38 +38,17 @@ My current learning journey focuses on Deep Learning, AI Agents, MCP Servers, Fa
 ---
 
 ## 🚀 Featured Projects
+## 🚀 Featured Projects
 
-<p align="center">
-
-<a href="https://github.com/bharat19334/ai-hallucination-mitigator">
-  <img src="https://img.shields.io/badge/🧠_AI_Hallucination_Mitigator-4F46E5?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://github.com/bharat19334/Ai-Viva-Quiz-platform">
-  <img src="https://img.shields.io/badge/🎓_AI_Viva_Quiz_Platform-2563EB?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://github.com/bharat19334/COPD_Healt_ChatBot">
-  <img src="https://img.shields.io/badge/🫁_COPD_Health_ChatBot-059669?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://github.com/bharat19334/Python-DSA">
-  <img src="https://img.shields.io/badge/📘_Python_DSA-EA580C?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://github.com/bharat19334/Data-Science-Projects/blob/main/IPL%20Match%20Analysis(2008-2026).ipynb">
-  <img src="https://img.shields.io/badge/🏏_IPL_Match_Analysis-DC2626?style=for-the-badge&logo=jupyter&logoColor=white" />
-</a>
-
-<a href="https://github.com/bharat19334/Data-Science-Projects/blob/main/Railway-delay-analysis.ipynb">
-  <img src="https://img.shields.io/badge/🚆_Railway_Delay_Analysis-0891B2?style=for-the-badge&logo=python&logoColor=white" />
-</a>
-
-<a href="https://github.com/bharat19334/Data-Science-Projects/tree/main/Web%20Scraping/Books%20to%20Scrape">
-  <img src="https://img.shields.io/badge/🌐_Web_Scraping-7C3AED?style=for-the-badge&logo=python&logoColor=white" />
-</a>
-
-</p>
+| 🚀 Project | 📝 Description | 💻 Tech Stack |
+|:-----------|:---------------|:--------------|
+| 🧠 **[AI Hallucination Mitigator](https://github.com/bharat19334/ai-hallucination-mitigator)** | RAG-based system for detecting and mitigating hallucinations in LLM-generated educational feedback. | Python, Groq API, ChromaDB, LangChain, Sentence Transformers |
+| 🎓 **[AI Viva Quiz Platform](https://github.com/bharat19334/Ai-Viva-Quiz-platform)** | AI-powered quiz and viva platform with automated question generation, evaluation, and analytics. | FastAPI, Python, PostgreSQL, React, AI |
+| 🫁 **[COPD Health ChatBot](https://github.com/bharat19334/COPD_Healt_ChatBot)** | Intelligent AI chatbot that assists users with COPD-related health information and guidance. | Python, FastAPI, Streamlit, Scikit-learn |
+| 📚 **[Python DSA](https://github.com/bharat19334/Python-DSA)** | Pattern-wise Data Structures & Algorithms solutions implemented in Python with explanations. | Python, DSA |
+| 🌐 **[Web Scraping Project](https://github.com/bharat19334/Data-Science-Projects/tree/main/Web%20Scraping/Books%20to%20Scrape)** | Automated web scraping pipeline for extracting and processing online data. | Python, BeautifulSoup, Requests |
+| 🏏 **[IPL Match Analysis](https://github.com/bharat19334/Data-Science-Projects/blob/main/IPL%20Match%20Analysis(2008-2026).ipynb)** | Exploratory data analysis of IPL matches, teams, and player performance. | Python, Pandas, NumPy, Matplotlib |
+| 🚆 **[Railway Delay Analysis](https://github.com/bharat19334/Data-Science-Projects/blob/main/Railway-delay-analysis.ipynb)** | Data analysis project to identify railway delay patterns and operational insights. | Python, Pandas, NumPy, Matplotlib |
 
 ---
 ## 💻 Tech Stack
