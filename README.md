@@ -46,31 +46,16 @@ My current learning journey focuses on Deep Learning, AI Agents, MCP Servers, Fa
 
 
 ---
-
-
-## 💻 Tech Stack
-
 ## 💻 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,c,cpp,fastapi,postgres,mysql,html,css,js,react,nodejs,git,github,docker,linux,vscode,tensorflow,pytorch,opencv,mongodb&perline=10" />
-
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,js,react,nodejs,fastapi,mysql,postgres,mongodb,docker,git,github,linux,vscode,tensorflow,pytorch,opencv,sklearn,anaconda,postman&theme=dark&perline=8" />
 </p>
-
-<h4 align="center">
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Seaborn-4C78A8?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ChromaDB-6E48AA?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-
-</h4>
 ---
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Bharat+Goswami;AI+%26+ML+Engineer;Full+Stack+Developer;Data+Science+Enthusiast)](https://git.io/typing-svg)
+
+--- 
+
 ## 📈 GitHub Statistics
 
 <div align="center">
