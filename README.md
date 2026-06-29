@@ -95,7 +95,7 @@ My current learning journey focuses on Deep Learning, AI Agents, MCP Servers, Fa
 ---
 
 ## 📫 Connect With Me
-
+<p>
 <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
     <img src="https://skillicons.dev/icons?i=linkedin" width="35"/>
   </a>
@@ -105,10 +105,8 @@ My current learning journey focuses on Deep Learning, AI Agents, MCP Servers, Fa
     <img src="https://skillicons.dev/icons?i=gmail" width="35"/>
   </a>
   &nbsp;&nbsp;
-<p style="display:inline">
   📍 India
 </p>
-  &nbsp;&nbsp;
 
 ---
 
