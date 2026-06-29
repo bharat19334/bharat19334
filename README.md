@@ -50,6 +50,27 @@ My current learning journey focuses on Deep Learning, AI Agents, MCP Servers, Fa
 
 ## 💻 Tech Stack
 
+## 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,fastapi,postgres,mysql,html,css,js,react,nodejs,git,github,docker,linux,vscode,tensorflow,pytorch,opencv,mongodb&perline=10" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-4C78A8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ChromaDB-6E48AA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+
+</p>
+
 <h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
