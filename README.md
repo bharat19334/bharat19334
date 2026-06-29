@@ -49,7 +49,7 @@ My current learning journey focuses on Deep Learning, AI Agents, MCP Servers, Fa
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,fastapi,mysql,postgres,git,github,linux,vscode,opencv,sklearn,anaconda,postman&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,fastapi,mysql,postgres,git,github,vscode,sklearn,anaconda,postman&theme=dark&perline=8" />
 </p>
 
 <p align="center">
