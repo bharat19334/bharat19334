@@ -36,33 +36,69 @@ I enjoy building intelligent applications using Python and exploring technologie
 My current learning journey focuses on Deep Learning, AI Agents, MCP Servers, FastAPI, PostgreSQL, and Data Structures & Algorithms. I believe in learning by building real-world projects and continuously improving my problem-solving skills.
 
 ---
+ <h2 align="center">🚀 Featured Projects</h2>
 
-## 🚀 Featured Projects
-## 🚀 Featured Projects
+<div align="center">
 
-<p align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/bharat19334/ai-hallucination-mitigator">
-<img src="https://img.shields.io/badge/🧠_AI_Hallucination_Mitigator-181717?style=for-the-badge"/>
-</a>
+### 🧠 AI Hallucination Mitigator
+> RAG-based system for detecting and reducing hallucinations in LLM-generated educational feedback.
 
-<a href="https://github.com/bharat19334/Ai-Viva-Quiz-platform">
-<img src="https://img.shields.io/badge/🎓_AI_Viva_Quiz_Platform-181717?style=for-the-badge"/>
-</a>
+🔗 **Repository:**  
+https://github.com/bharat19334/ai-hallucination-mitigator
 
-<a href="https://github.com/bharat19334/COPD_Healt_ChatBot">
-<img src="https://img.shields.io/badge/🫁_COPD_Health_ChatBot-181717?style=for-the-badge"/>
-</a>
+</td>
 
-<a href="https://github.com/bharat19334/Python-DSA">
-<img src="https://img.shields.io/badge/📘_Python_DSA-181717?style=for-the-badge"/>
-</a>
+<td width="50%" valign="top">
 
-<a href="https://github.com/bharat19334/Data-Science-Projects">
-<img src="https://img.shields.io/badge/📊_Data_Science_Projects-181717?style=for-the-badge"/>
-</a>
+### 🎓 AI Viva Quiz Platform
+> AI-powered quiz and viva assessment platform with automated evaluation.
 
-</p>
+🔗 **Repository:**  
+https://github.com/bharat19334/Ai-Viva-Quiz-platform
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🫁 COPD Health ChatBot
+> Intelligent healthcare chatbot for COPD prediction and assistance.
+
+🔗 **Repository:**  
+https://github.com/bharat19334/COPD_Healt_ChatBot
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📘 Python DSA
+> Pattern-wise Data Structures & Algorithms solutions in Python.
+
+🔗 **Repository:**  
+https://github.com/bharat19334/Python-DSA
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+
+### 📊 Data Science Projects
+> Collection of Data Science projects including **IPL Match Analysis**, **Railway Delay Analysis**, and **Web Scraping**.
+
+🔗 **Repository:**  
+https://github.com/bharat19334/Data-Science-Projects
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 ## 💻 Tech Stack
