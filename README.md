@@ -105,7 +105,7 @@ My current learning journey focuses on Deep Learning, AI Agents, MCP Servers, Fa
     <img src="https://skillicons.dev/icons?i=gmail" width="40"/>
   </a>
   &nbsp;&nbsp;
-
+<p>
   📍 India
 </p>
 
