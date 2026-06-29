@@ -49,21 +49,12 @@ My current learning journey focuses on Deep Learning, AI Agents, MCP Servers, Fa
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,fastapi,mysql,postgres,git,github,linux,vscode,opencv,sklearn,anaconda,postman&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,fastapi,mysql,postgres,git,github,linux,vscode,opencv,sklearn,anaconda,postman&theme=dark&perline=8" />
 </p>
 
-### 📚 Libraries & Frameworks
 <p align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/Web%20Scraping-00A86B?style=for-the-badge"/>
-</p>
-
-### 🛠️ Tools & Platforms
-<p align="center">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"/>
   <img src="https://img.shields.io/badge/Neon-00E699?style=for-the-badge"/>
