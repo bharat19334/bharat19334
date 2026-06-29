@@ -23,6 +23,7 @@ Building intelligent systems, solving real-world problems, and continuously expl
 </div>
 
 ---
+![](https://komarev.com/ghpvc/?username=bharat19334&color=blue)
 
 ## 👨‍💻 About Me
 
