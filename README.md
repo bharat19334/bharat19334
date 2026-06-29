@@ -47,6 +47,12 @@ My current learning journey focuses on Deep Learning, AI Agents, MCP Servers, Fa
 | [🫁 COPD Care AI](https://github.com/bharat19334/COPD_CARE_AI)                                                                                   | Machine Learning system for COPD risk prediction.             | Python, Scikit-Learn, Pandas      |
 
 
+## 🚀 Featured Projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bharat19334&repo=DATA-STRUCTURE-AND-ALGORITHUM&theme=tokyonight)](https://github.com/bharat19334/DATA-STRUCTURE-AND-ALGORITHUM)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bharat19334&repo=COPD_CARE_AI&theme=tokyonight)](https://github.com/bharat19334/COPD_CARE_AI)
+
 ---
 ## 💻 Tech Stack
 
