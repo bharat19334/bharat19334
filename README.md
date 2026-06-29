@@ -37,8 +37,7 @@ My current learning journey focuses on Deep Learning, AI Agents, MCP Servers, Fa
 
 ---
 
-## 🚀 Featured Projects
-## 🚀 Featured Projects
+## 🚀 Featured Repository
 
 | 🚀 Project | 📝 Description | 💻 Tech Stack |
 |:-----------|:---------------|:--------------|
