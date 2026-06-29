@@ -36,16 +36,6 @@ I enjoy building intelligent applications using Python and exploring technologie
 My current learning journey focuses on Deep Learning, AI Agents, MCP Servers, FastAPI, PostgreSQL, and Data Structures & Algorithms. I believe in learning by building real-world projects and continuously improving my problem-solving skills.
 
 ---
-## 🚀 Featured Projects
-
-| Project                                                                                                                                          | Description                                                   | Tech Stack                        |
-| ------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------- | --------------------------------- |
-| [🚆 Railway Delay Analysis](https://github.com/bharat19334/Data-Science-Projects/blob/main/Railway-delay-analysis.ipynb)                         | Analyzed train delay patterns and operational inefficiencies. | Python, Pandas, NumPy, Matplotlib |
-| [🏏 IPL Data Analysis](https://github.com/bharat19334/Data-Science-Projects/blob/main/IPL%20Match%20Analysis%282008-2026%29.ipynb)               | Explored IPL datasets to uncover team and player insights.    | Python, Pandas, NumPy, Matplotlib |
-| [🌐 Web Scraping Project](https://github.com/bharat19334/Data-Science-Projects/blob/main/Web%20Scraping/Books%20to%20Scrape/BeautifulSoup.ipynb) | Automated web data extraction and cleaning workflows.         | Python, BeautifulSoup, Requests   |
-| [📚 DSA Practice Repository](https://github.com/bharat19334/Python-DSA)                                                                       | Collection of Data Structures & Algorithms solutions.         | Python, DSA, Algorithms           |
-| [🫁 COPD Care AI](https://github.com/bharat19334/COPD_CARE_AI)                                                                                   | Machine Learning system for COPD risk prediction.             | Python, Scikit-Learn, Pandas      |
-
 
 ## 🚀 Featured Projects
 
@@ -53,16 +43,11 @@ My current learning journey focuses on Deep Learning, AI Agents, MCP Servers, Fa
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bharat19334&repo=COPD_CARE_AI&theme=tokyonight)](https://github.com/bharat19334/COPD_CARE_AI)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bharat19334&repo=Railway-Delay-Analysis&theme=tokyonight)](https://github.com/bharat19334/Railway-Delay-Analysis)
 
-## 🚀 Featured Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bharat19334&repo=IPL-Data-Analysis&theme=tokyonight)](https://github.com/bharat19334/IPL-Data-Analysis)
 
-| ⭐ Project | 📖 Overview | ⚙️ Core Technologies |
-|:----------|:------------|:---------------------|
-| 🚆 **[Railway Delay Analytics](https://github.com/bharat19334/YOUR_REPO)** | Engineered a data analytics solution to identify railway delay trends, operational bottlenecks, and actionable performance insights through visualization. | **Python • Pandas • NumPy • Matplotlib** |
-| 🏏 **[IPL Performance Analytics](https://github.com/bharat19334/YOUR_REPO)** | Conducted comprehensive exploratory data analysis on IPL datasets to uncover player, team, and season-wise performance insights. | **Python • Pandas • NumPy • Matplotlib** |
-| 🌐 **[Web Scraping Automation](https://github.com/bharat19334/YOUR_REPO)** | Designed automated web scraping pipelines for extracting, cleaning, and transforming large-scale web data into structured datasets. | **Python • BeautifulSoup • Requests** |
-| 📚 **[DSA Practice Repository](https://github.com/bharat19334/DATA-STRUCTURE-AND-ALGORITHUM)** | Curated a pattern-based collection of optimized Data Structures & Algorithms solutions with detailed problem-solving approaches. | **Python • DSA • Algorithms** |
-| 🫁 **[COPD Care AI](https://github.com/bharat19334/COPD_CARE_AI)** | Developed an AI-powered machine learning system for early COPD risk prediction using healthcare data and predictive analytics. | **Python • Scikit-learn • Pandas • NumPy** |
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bharat19334&repo=Web-Scraping&theme=tokyonight)](https://github.com/bharat19334/Web-Scraping)
 
 ---
 ## 💻 Tech Stack
