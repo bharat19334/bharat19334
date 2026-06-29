@@ -38,16 +38,31 @@ My current learning journey focuses on Deep Learning, AI Agents, MCP Servers, Fa
 ---
 
 ## 🚀 Featured Projects
+## 🚀 Featured Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bharat19334&repo=DATA-STRUCTURE-AND-ALGORITHUM&theme=tokyonight)](https://github.com/bharat19334/DATA-STRUCTURE-AND-ALGORITHUM)
+<p align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bharat19334&repo=COPD_CARE_AI&theme=tokyonight)](https://github.com/bharat19334/COPD_CARE_AI)
+<a href="https://github.com/bharat19334/ai-hallucination-mitigator">
+<img src="https://img.shields.io/badge/🧠_AI_Hallucination_Mitigator-181717?style=for-the-badge"/>
+</a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bharat19334&repo=Railway-Delay-Analysis&theme=tokyonight)](https://github.com/bharat19334/Railway-Delay-Analysis)
+<a href="https://github.com/bharat19334/Ai-Viva-Quiz-platform">
+<img src="https://img.shields.io/badge/🎓_AI_Viva_Quiz_Platform-181717?style=for-the-badge"/>
+</a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bharat19334&repo=IPL-Data-Analysis&theme=tokyonight)](https://github.com/bharat19334/IPL-Data-Analysis)
+<a href="https://github.com/bharat19334/COPD_Healt_ChatBot">
+<img src="https://img.shields.io/badge/🫁_COPD_Health_ChatBot-181717?style=for-the-badge"/>
+</a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bharat19334&repo=Web-Scraping&theme=tokyonight)](https://github.com/bharat19334/Web-Scraping)
+<a href="https://github.com/bharat19334/Python-DSA">
+<img src="https://img.shields.io/badge/📘_Python_DSA-181717?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/bharat19334/Data-Science-Projects">
+<img src="https://img.shields.io/badge/📊_Data_Science_Projects-181717?style=for-the-badge"/>
+</a>
+
+</p>
 
 ---
 ## 💻 Tech Stack
