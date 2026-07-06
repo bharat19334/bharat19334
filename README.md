@@ -68,7 +68,7 @@ My current learning journey focuses on Deep Learning, AI Agents, MCP Servers, Fa
 
 ## 📈 GitHub Statistics
 
-![](![GitHub Stats]https://github-readme-stats-ten-lake-98.vercel.app/api?username=bharat19334&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats-ten-lake-98.vercel.app/api?username=bharat19334&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bharat19334&theme=tokyonight&hide_border=true)
 
