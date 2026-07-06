@@ -72,7 +72,7 @@ My current learning journey focuses on Deep Learning, AI Agents, MCP Servers, Fa
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bharat19334&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bharat19334&layout=compact&theme=tokyonight&hide_border=true)>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bharat19334&layout=compact&theme=tokyonight&hide_border=true)
 ---
 
 ## 🏆 Achievements
