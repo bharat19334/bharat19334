@@ -41,8 +41,6 @@ My current learning journey focuses on Deep Learning, AI Agents, MCP Servers, Fa
 
 | 🚀 Project | 📝 Description | 💻 Tech Stack |
 |:-----------|:---------------|:--------------|
-| 🧠 **[AI Hallucination Mitigator](https://github.com/bharat19334/ai-hallucination-mitigator)** | RAG-based system for detecting and mitigating hallucinations in LLM-generated educational feedback. | Python, Groq API, ChromaDB, LangChain, Sentence Transformers |
-| 🎓 **[AI Viva Quiz Platform](https://github.com/bharat19334/Ai-Viva-Quiz-platform)** | AI-powered quiz and viva platform with automated question generation, evaluation, and analytics. | FastAPI, Python, PostgreSQL, React, AI |
 | 🫁 **[COPD Health ChatBot](https://github.com/bharat19334/COPD_Healt_ChatBot)** | Intelligent AI chatbot that assists users with COPD-related health information and guidance. | Python, FastAPI, Streamlit, Scikit-learn |
 | 📚 **[Python DSA](https://github.com/bharat19334/Python-DSA)** | Pattern-wise Data Structures & Algorithms solutions implemented in Python with explanations. | Python, DSA |
 | 🌐 **[Web Scraping Project](https://github.com/bharat19334/Data-Science-Projects/tree/main/Web%20Scraping/Books%20to%20Scrape)** | Automated web scraping pipeline for extracting and processing online data. | Python, BeautifulSoup, Requests |
