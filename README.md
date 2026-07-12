@@ -27,7 +27,6 @@ Building intelligent systems, solving real-world problems, and continuously expl
 
 ---
 ![](https://komarev.com/ghpvc/?username=bharat19334&color=blue)
-[![wakatime](https://wakatime.com/badge/user/YOUR_WAKATIME_USER_ID.svg)](https://wakatime.com/@bharat19334)
 ## 👨‍💻 About Me
 
 I am a B.Tech Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning.
