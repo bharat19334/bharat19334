@@ -17,6 +17,9 @@ Building intelligent systems, solving real-world problems, and continuously expl
 <a href="https://github.com/bharat19334">
 <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
 </a>
+<a href="https://wakatime.com/bharat19334">
+<img src="https://wakatime.com/badge/user/018b7c34-66c0-414f-bed4-3cc0802eb59d.svg?style=for-the-badge" alt="WakaTime" />
+</a>
 
 </div>
 
