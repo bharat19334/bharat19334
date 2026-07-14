@@ -36,6 +36,21 @@ I enjoy building intelligent applications using Python and exploring technologie
 My current learning journey focuses on Deep Learning, AI Agents, MCP Servers, FastAPI, PostgreSQL, and Data Structures & Algorithms. I believe in learning by building real-world projects and continuously improving my problem-solving skills.
 
 ---
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/bharat19334/bharat19334/output/github-contribution-grid-snake-dark.svg" />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/bharat19334/bharat19334/output/github-contribution-grid-snake.svg" />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/bharat19334/bharat19334/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+---
 
 ## 🚀 Featured Repository
 
