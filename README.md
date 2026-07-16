@@ -38,102 +38,28 @@ My current learning journey focuses on **Deep Learning, AI Agents, MCP Servers, 
 
 ## Projects
 
-<br>
-
 **🩺 Healthcare AI**
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**[COPD_CARE_AI](https://github.com/bharat19334/COPD_CARE_AI)**
-
-AI-driven care assistant for COPD patients, offering guidance and support around disease management.
-
-`Python` `AI/ML`
-
-</td>
-<td width="50%" valign="top">
-
-**[COPD Health ChatBot](https://github.com/bharat19334/COPD_Healt_ChatBot)**
-
-Intelligent AI chatbot that assists users with COPD-related health information and guidance.
-
-`Python` `FastAPI` `Streamlit` `Scikit-learn`
-
-</td>
-</tr>
-</table>
+| Project | Description | Tech Stack |
+|---|---|---|
+| **[COPD_CARE_AI](https://github.com/bharat19334/COPD_CARE_AI)** | AI-driven care assistant for COPD patients. | `Python` `AI/ML` |
+| **[COPD Health ChatBot](https://github.com/bharat19334/COPD_Healt_ChatBot)** | AI chatbot for COPD-related health info. | `Python` `FastAPI` `Streamlit` `Scikit-learn` |
 
 **🎓 EdTech / AI Applications**
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**[AI Viva Quiz Platform](https://github.com/bharat19334/Ai-Viva-Quiz-platform)**
-
-AI-powered platform for conducting viva-style quizzes and assessments.
-
-`Python` `AI/ML`
-
-</td>
-<td width="50%" valign="top">
-
-**[LeetCode Tracker Automation](https://github.com/bharat19334/leetcode-tracker-automation)**
-
-Automated workflow that tracks daily LeetCode progress, classifies DSA patterns, and schedules spaced-repetition revisions into Google Sheets — zero manual effort.
-
-`n8n` `GraphQL API` `JavaScript` `Google Sheets API`
-
-</td>
-</tr>
-</table>
+| Project | Description | Tech Stack |
+|---|---|---|
+| **[AI Viva Quiz Platform](https://github.com/bharat19334/Ai-Viva-Quiz-platform)** | AI platform for viva-style quizzes. | `Python` `AI/ML` |
+| **[LeetCode Tracker Automation](https://github.com/bharat19334/leetcode-tracker-automation)** | Auto-tracks LeetCode progress with spaced revision. | `n8n` `GraphQL API` `JavaScript` `Google Sheets API` |
 
 **📊 Data Analytics**
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**[Python DSA](https://github.com/bharat19334/Python-DSA)**
-
-Pattern-wise Data Structures & Algorithms solutions in Python with explanations.
-
-`Python` `DSA`
-
-</td>
-<td width="50%" valign="top">
-
-**[Web Scraping Project](https://github.com/bharat19334/Data-Science-Projects/tree/main/Web%20Scraping/Books%20to%20Scrape)**
-
-Automated web scraping pipeline for extracting and processing online data.
-
-`Python` `BeautifulSoup` `Requests`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[IPL Match Analysis](https://github.com/bharat19334/Data-Science-Projects/blob/main/IPL%20Match%20Analysis(2008-2026).ipynb)**
-
-Exploratory data analysis of IPL matches, teams, and player performance.
-
-`Python` `Pandas` `NumPy` `Matplotlib`
-
-</td>
-<td width="50%" valign="top">
-
-**[Railway Delay Analysis](https://github.com/bharat19334/Data-Science-Projects/blob/main/Railway-delay-analysis.ipynb)**
-
-Data analysis project identifying railway delay patterns and operational insights.
-
-`Python` `Pandas` `NumPy` `Matplotlib`
-
-</td>
-</tr>
-</table>
+| Project | Description | Tech Stack |
+|---|---|---|
+| **[Python DSA](https://github.com/bharat19334/Python-DSA)** | Pattern-wise DSA solutions with explanations. | `Python` `DSA` |
+| **[Web Scraping Project](https://github.com/bharat19334/Data-Science-Projects/tree/main/Web%20Scraping/Books%20to%20Scrape)** | Automated web scraping pipeline. | `Python` `BeautifulSoup` `Requests` |
+| **[IPL Match Analysis](https://github.com/bharat19334/Data-Science-Projects/blob/main/IPL%20Match%20Analysis(2008-2026).ipynb)** | EDA on IPL matches and player performance. | `Python` `Pandas` `NumPy` `Matplotlib` |
+| **[Railway Delay Analysis](https://github.com/bharat19334/Data-Science-Projects/blob/main/Railway-delay-analysis.ipynb)** | Railway delay pattern analysis. | `Python` `Pandas` `NumPy` `Matplotlib` |
 
 ---
 
