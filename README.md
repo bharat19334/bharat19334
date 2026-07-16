@@ -12,6 +12,9 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=bharat19334&style=flat-square&color=2E9EF7" alt="Profile views"/>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="35"/>
+</a>
 </p>
 
 </div>
