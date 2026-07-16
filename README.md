@@ -1,21 +1,186 @@
 <div align="center">
 
-<h1 align="center">
-   👋 Hi, I'm Bharat Goswami
-</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Bharat+Goswami;AI+%26+ML+Enthusiast;Python+Developer;Data+Analytics+Explorer" alt="Typing SVG" />
 
-### AI & ML | Python Developer | Data Analytics Enthusiast
+<p align="center">
+  <a href="https://www.linkedin.com/in/bharatgoswami19">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/bharat19334">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=bharat19334&style=flat-square&color=2E9EF7" alt="Profile views"/>
+</p>
 
-Building intelligent systems, solving real-world problems, and continuously exploring Artificial Intelligence, Machine Learning, Backend Development, and Data Analytics.
+</div>
+
+<br>
+
+## About Me
+
+B.Tech Computer Science student specializing in **AI & Machine Learning**. I build intelligent applications with Python, and work across AI, backend development, and data analytics.
+
+Currently learning **Deep Learning, AI Agents, MCP Servers, FastAPI, PostgreSQL,** and **DSA** — I learn best by building and shipping real projects.
+
+<br>
+
+## Projects
+
+<br>
+
+**🩺 Healthcare AI**
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[COPD_CARE_AI](https://github.com/bharat19334/COPD_CARE_AI)**
+
+AI-driven care assistant for COPD patients, offering guidance and support around disease management.
+
+`Python` `AI/ML`
+
+</td>
+<td width="50%" valign="top">
+
+**[COPD Health ChatBot](https://github.com/bharat19334/COPD_Healt_ChatBot)**
+
+Intelligent AI chatbot that assists users with COPD-related health information and guidance.
+
+`Python` `FastAPI` `Streamlit` `Scikit-learn`
+
+</td>
+</tr>
+</table>
+
+**🎓 EdTech / AI Applications**
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[AI Viva Quiz Platform](https://github.com/bharat19334/Ai-Viva-Quiz-platform)**
+
+AI-powered platform for conducting viva-style quizzes and assessments.
+
+`Python` `AI/ML`
+
+</td>
+<td width="50%" valign="top">
+
+**[LeetCode Tracker Automation](https://github.com/bharat19334/leetcode-tracker-automation)**
+
+Automated workflow that tracks daily LeetCode progress, classifies DSA patterns, and schedules spaced-repetition revisions into Google Sheets — zero manual effort.
+
+`n8n` `GraphQL API` `JavaScript` `Google Sheets API`
+
+</td>
+</tr>
+</table>
+
+**📊 Data Analytics**
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[Python DSA](https://github.com/bharat19334/Python-DSA)**
+
+Pattern-wise Data Structures & Algorithms solutions in Python with explanations.
+
+`Python` `DSA`
+
+</td>
+<td width="50%" valign="top">
+
+**[Web Scraping Project](https://github.com/bharat19334/Data-Science-Projects/tree/main/Web%20Scraping/Books%20to%20Scrape)**
+
+Automated web scraping pipeline for extracting and processing online data.
+
+`Python` `BeautifulSoup` `Requests`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[IPL Match Analysis](https://github.com/bharat19334/Data-Science-Projects/blob/main/IPL%20Match%20Analysis(2008-2026).ipynb)**
+
+Exploratory data analysis of IPL matches, teams, and player performance.
+
+`Python` `Pandas` `NumPy` `Matplotlib`
+
+</td>
+<td width="50%" valign="top">
+
+**[Railway Delay Analysis](https://github.com/bharat19334/Data-Science-Projects/blob/main/Railway-delay-analysis.ipynb)**
+
+Data analysis project identifying railway delay patterns and operational insights.
+
+`Python` `Pandas` `NumPy` `Matplotlib`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,fastapi,postgres,mysql,git,github,vscode,sklearn,anaconda,postman,html,css&theme=dark&perline=7" alt="Skills"/>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white"/>
+</p>
+
+<br>
+
+## GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats-mocha-two-76.vercel.app/api?username=bharat19334&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharat19334&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bharat19334&theme=tokyonight&hide_border=true"/>
+</p>
+
+<br>
+
+## Currently Working On
+
+- Building AI & Machine Learning projects
+- Performing data analytics on real-world datasets
+- Practicing Data Structures & Algorithms
+- Learning FastAPI, backend development, and PostgreSQL
+
+<br>
+
+## Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/bharatgoswami19">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+📍 India
+
+<br>
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/bharatgoswami19">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-</a>
+*"Consistency Builds Excellence."*
 
-<a href="https://github.com/bharat19334">
-<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+</div>
+
+
 </a>
 
 </div>
