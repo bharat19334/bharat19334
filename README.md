@@ -18,7 +18,7 @@
 
 <br>
 
-## About Me
+## 👨‍💻 About Me
 
 I am a B.Tech Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning. I enjoy building intelligent applications using Python and exploring technologies related to AI, Backend Development, Data Analytics, and Software Engineering.
 
