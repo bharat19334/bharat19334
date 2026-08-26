@@ -52,7 +52,7 @@ My current learning journey focuses on **Deep Learning, AI Agents, MCP Servers, 
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| **[Named Entity Recognition with spaCy](YOUR_NER_GITHUB_LINK)** | NLP project that identifies and classifies entities such as PERSON, ORG, GPE, DATE, MONEY, PRODUCT, and LOC from text and news articles. | `Python` `spaCy` `NLP` `BeautifulSoup` `Requests` |
+| **[Named Entity Recognition with spaCy](https://github.com/bharat19334/Named-entity-recognition-spacy)** | NLP project that identifies and classifies entities such as PERSON, ORG, GPE, DATE, MONEY, PRODUCT, and LOC from text and news articles. | `Python` `spaCy` `NLP` `BeautifulSoup` `Requests` |
 | **[Hugging Face Fine-Tune Model](https://github.com/bharat19334/Hugging-Face-FineTune-Model)** | Fine-tuning a pre-trained Hugging Face model for a custom task. | `Python` `Hugging Face` `Transformers` `Fine-Tuning` |
 | **[RAG PDF + Pinecone + GPT-2](https://github.com/bharat19334/rag-pdf-pinecone-gpt2)** | Retrieval-Augmented Generation system that retrieves information from PDF documents and generates answers using an LLM. | `Python` `RAG` `Pinecone` `GPT-2` |
 
