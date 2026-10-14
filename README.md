@@ -1,9 +1,7 @@
 <div align="center">
 
 <img src="banner.png" alt="Bharat Goswami" width="100%" height="60%" />
-
 ### AI & ML | Python Developer | Data Analytics Enthusiast
-
 <p align="center">
   <a href="https://www.linkedin.com/in/bharatgoswami19">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
