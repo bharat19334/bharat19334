@@ -1,6 +1,6 @@
 <div align="center">
 
-<big><h1 align="center">Bharat Goswami</h1></big>
+<img src="banner.png" alt="Bharat Goswami" width="100%" />
 
 ### AI & ML | Python Developer | Data Analytics Enthusiast
 
