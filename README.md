@@ -137,7 +137,7 @@ My current learning journey focuses on **Deep Learning, AI Agents, MCP Servers, 
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:bharatgoswami49200619@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="35"/>
 </a>
   <a href="https://www.linkedin.com/in/bharatgoswami19">
