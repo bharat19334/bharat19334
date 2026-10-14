@@ -44,7 +44,7 @@ My current learning journey focuses on **Deep Learning, AI Agents, MCP Servers, 
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| **[DeepAlgoMinds](https://github.com/bharat19334/DeepAlgoMinds)** | Algorithm-focused project for learning and implementing Data Structures and Algorithms. | `Python` `DSA` `Algorithms` |
+| **[DeepAlgoMinds](https://github.com/bharat19334/DeepAlgoMinds)** | Algorithm-focused for learning and implementing Data Structures and Algorithms. | `Python` `DSA` `Algorithms` |
 | **[DSA Tutor](https://github.com/bharat19334/dsa-tutor)** | AI-powered DSA learning project designed to help users understand and practice Data Structures and Algorithms. | `Python` `AI` `DSA` |
 | **[Python DSA](https://github.com/bharat19334/Python-DSA)** | Pattern-wise Data Structures and Algorithms solutions with explanations. | `Python` `DSA` |
 
