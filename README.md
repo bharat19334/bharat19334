@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.png" alt="Bharat Goswami" width="100%" />
+<img src="banner.png" alt="Bharat Goswami" width="100%" height="60%" />
 
 ### AI & ML | Python Developer | Data Analytics Enthusiast
 
