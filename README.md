@@ -34,8 +34,6 @@ My current learning journey focuses on **Deep Learning, AI Agents, MCP Servers, 
 
 ---
 
-## Projects
-
 ## 🚀 Projects
 
 **💻 DSA & Algorithm Projects**
