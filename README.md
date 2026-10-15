@@ -102,16 +102,14 @@ My current learning journey focuses on **Deep Learning, AI Agents, MCP Servers, 
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bharat19334&show_icons=true&theme=dark&count_private=true" alt="Bharat's GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bharat19334&show_icons=true&theme=dark&count_private=true&hide_border=false" alt="GitHub Statistics" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharat19334&layout=compact&theme=dark&hide_border=false" alt="Most Used Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharat19334&layout=compact&theme=dark" alt="Top Languages" />
+  <img width="65%" src="https://streak-stats.demolab.com?user=bharat19334&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=bharat19334&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
 ---
 
 ## 🏆 Achievements
