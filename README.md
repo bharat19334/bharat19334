@@ -9,8 +9,8 @@
   <a href="https://github.com/bharat19334">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://mail.google.com/mail/u/?authuser=bharatgoswami49200619@gmail.com#inbox" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" width="35" alt="Gmail" />
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=bharatgoswami49200619@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" width="35" alt="Email Me" />
   </a>
     
 </p>
