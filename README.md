@@ -9,7 +9,10 @@
   <a href="https://github.com/bharat19334">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-    <!-- <img src="https://komarev.com/ghpvc/?username=bharat19334&label=Profile%20Views&style=for-the-badge&color=2E9EF7" alt="Profile views"/> -->
+  <a href="https://mail.google.com/mail/u/?authuser=bharatgoswami49200619@gmail.com#inbox" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" width="35" alt="Gmail" />
+  </a>
+    <img src="https://komarev.com/ghpvc/?username=bharat19334&label=Profile%20Views&style=for-the-badge&color=2E9EF7" alt="Profile views"/>
 </p>
 
 </div>
