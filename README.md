@@ -34,6 +34,23 @@ My current learning journey focuses on **Deep Learning, AI Agents, MCP Servers, 
 
 ---
 
+## 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,fastapi,mysql,postgres,git,github,vscode,sklearn,anaconda,postman&theme=dark&perline=8" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Neon-00E699?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
+</p>
+
+---
+
 ## 🚀 Projects
 
 **💻 DSA & Algorithm Projects**
@@ -79,22 +96,6 @@ My current learning journey focuses on **Deep Learning, AI Agents, MCP Servers, 
 | **[Web Scraping Project](https://github.com/bharat19334/Data-Science-Projects/tree/main/Web%20Scraping/Books%20to%20Scrape)** | Automated web scraping pipeline. | `Python` `BeautifulSoup` `Requests` |
 | **[IPL Match Analysis](https://github.com/bharat19334/Data-Science-Projects/blob/main/IPL%20Match%20Analysis(2008-2026).ipynb)** | EDA on IPL matches and player performance. | `Python` `Pandas` `NumPy` `Matplotlib` |
 | **[Railway Delay Analysis](https://github.com/bharat19334/Data-Science-Projects/blob/main/Railway-delay-analysis.ipynb)** | Railway delay pattern analysis. | `Python` `Pandas` `NumPy` `Matplotlib` |
----
-
-## 💻 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,fastapi,mysql,postgres,git,github,vscode,sklearn,anaconda,postman&theme=dark&perline=8" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Neon-00E699?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
-</p>
 
 ---
 
