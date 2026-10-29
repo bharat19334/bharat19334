@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.png" alt="Bharat Goswami" width="100%" height="60%" />
+<img src="banner.png" alt="Bharat Goswami" width="100%" height="60%" /> 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bharatgoswami19">
