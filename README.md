@@ -20,7 +20,6 @@
 <br>
 
 ## 👨‍💻 About Me
-<img src="https://komarev.com/ghpvc/?username=bharat19334&label=Profile%20Views&style=for-the-badge&color=2E9EF7" alt="Profile views"/>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=bharat19334&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
