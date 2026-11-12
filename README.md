@@ -110,8 +110,8 @@ My current learning journey focuses on **Deep Learning, AI Agents, MCP Servers, 
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bharat19334&show_icons=true&theme=dark&count_private=true&hide_border=false" alt="GitHub Statistics" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharat19334&layout=compact&theme=dark&hide_border=false" alt="Most Used Languages" />
+  <img width="48%" src="https://github-readme-stats-mocha-two-76.vercel.app/api?username=bharat19334&show_icons=true&theme=dark&count_private=true&hide_border=false" alt="GitHub Statistics" />
+  <img width="48%" src="https://github-readme-stats-mocha-two-76.vercel.app/api/top-langs/?username=bharat19334&layout=compact&theme=dark&hide_border=false" alt="Most Used Languages" />
 </p>
 
 <p align="center">
