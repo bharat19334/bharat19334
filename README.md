@@ -80,6 +80,16 @@ My current learning journey focuses on **Deep Learning, AI Agents, MCP Servers, 
 
 ---
 
+## 🏆 LeetCode Statistics
+
+<p align="center">
+  <a href="https://leetcode.com/u/bharatgoswami19/">
+    <img src="https://leetcard.jacoblin.cool/bharatgoswami19?theme=dark&font=Baloo&ext=heatmap" width="80%" alt="LeetCode Stats" />
+  </a>
+</p>
+
+---
+
 ## 🚀 Projects
 
 **💻 DSA & Algorithm Projects**
