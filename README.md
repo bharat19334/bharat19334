@@ -21,7 +21,9 @@
 
 ## 👨‍💻 About Me
 <img src="https://komarev.com/ghpvc/?username=bharat19334&label=Profile%20Views&style=for-the-badge&color=2E9EF7" alt="Profile views"/>
+
 [![Pull Requests](https://img.shields.io/badge/Pull%20Requests-GitHub-blue?logo=github)](https://github.com/pulls?q=is%3Apr+author%3Abharat19334)
+
 
 I am a B.Tech Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning. I enjoy building intelligent applications using Python and exploring technologies related to AI, Backend Development, Data Analytics, and Software Engineering.
 
