@@ -83,7 +83,7 @@ My current learning journey focuses on **Deep Learning, AI Agents, MCP Servers, 
 
 <p align="center">
   <a href="https://leetcode.com/u/bharatgoswami19/">
-    <img src="https://leetcard.jacoblin.cool/bharatgoswami19?theme=dark&font=Baloo&ext=heatmap" width="100%" height="30%" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/bharatgoswami19?theme=dark&font=Baloo&ext=heatmap" width="100%" height="2%" alt="LeetCode Stats" />
   </a>
 </p>
 
