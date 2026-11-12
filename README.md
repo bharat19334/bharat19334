@@ -1,9 +1,8 @@
-<h2>📈 Contribution Activity</h2>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bharat19334&theme=react-dark&hide_border=true" width="100%" />
-
 <div align="center">
-
-<img src="banner.png" alt="Bharat Goswami" width="100%" height="60%" /> 
+  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=48&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=850&height=100&lines=BHARAT+GOSWAMI;AI%2FML+DEVELOPER;DATA+SCIENCE+ENTHUSIAST;PYTHON+PROGRAMMER" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bharatgoswami19">
