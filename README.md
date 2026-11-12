@@ -22,9 +22,9 @@
 ## 👨‍💻 About Me
 <img src="https://komarev.com/ghpvc/?username=bharat19334&label=Profile%20Views&style=for-the-badge&color=2E9EF7" alt="Profile views"/>
 
-[![Pull Requests](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dis%253Apr%2Bauthor%253Abharat19334&query=%24.total_count&label=Pull%20Requests&logo=github&color=blue)](https://github.com/pulls?q=is%3Apr+author%3Abharat19334)
+[![Pull Requests](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dis%253Apr%2520author%253Abharat19334&query=%24.total_count&label=Pull%20Requests&logo=github&color=blue)](https://github.com/pulls?q=is%3Apr+author%3Abharat19334)
 
-[![Merged PRs](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dis%253Apr%2Bis%253Amerged%2Bauthor%253Abharat19334&query=%24.total_count&label=Merged%20PRs&logo=github&color=success)](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Abharat19334)
+[![Merged PRs](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dis%253Apr%2520is%253Amerged%2520author%253Abharat19334&query=%24.total_count&label=Merged%20PRs&logo=github&color=success)](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Abharat19334)
 
 I am a B.Tech Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning. I enjoy building intelligent applications using Python and exploring technologies related to AI, Backend Development, Data Analytics, and Software Engineering.
 
