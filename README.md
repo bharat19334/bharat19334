@@ -45,20 +45,9 @@ My current learning journey focuses on **Deep Learning, AI Agents, MCP Servers, 
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img
-    width="48%"
-    src="https://github-readme-stats-mocha-two-76.vercel.app/api?username=bharat19334&show_icons=true&theme=dark&count_private=true&hide_border=false"
-    alt="GitHub Statistics"
-  />
-  <img
-    width="48%"
-    src="https://github-readme-stats-mocha-two-76.vercel.app/api/top-langs/?username=bharat19334&layout=compact&theme=dark&hide_border=false"
-    alt="Most Used Languages"
-  />
-</p>
-
-<p align="center">
-  <img width="65%" src="https://streak-stats.demolab.com?user=bharat19334&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img width="32%" height="165" src="https://github-readme-stats-mocha-two-76.vercel.app/api?username=bharat19334&show_icons=true&theme=dark&count_private=true&hide_border=true&hide_title=true&card_width=300" alt="GitHub Stats" />
+  <img width="32%" height="165" src="https://github-readme-stats-mocha-two-76.vercel.app/api/top-langs/?username=bharat19334&layout=compact&theme=dark&hide_border=true&card_width=300" alt="Top Languages" />
+  <img width="32%" height="165" src="https://streak-stats.demolab.com?user=bharat19334&theme=dark&hide_border=true&card_width=300" alt="GitHub Streak" />
 </p>
 
 ---
