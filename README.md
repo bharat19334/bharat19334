@@ -42,6 +42,27 @@ My current learning journey focuses on **Deep Learning, AI Agents, MCP Servers, 
 
 ---
 
+## 📈 GitHub Statistics
+
+<p align="center">
+  <img
+    width="48%"
+    src="https://github-readme-stats-mocha-two-76.vercel.app/api?username=bharat19334&show_icons=true&theme=dark&count_private=true&hide_border=false"
+    alt="GitHub Statistics"
+  />
+  <img
+    width="48%"
+    src="https://github-readme-stats-mocha-two-76.vercel.app/api/top-langs/?username=bharat19334&layout=compact&theme=dark&hide_border=false"
+    alt="Most Used Languages"
+  />
+</p>
+
+<p align="center">
+  <img width="65%" src="https://streak-stats.demolab.com?user=bharat19334&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
 ### 🛠️ Tech Stack & Tools
 
 <p align="center">
@@ -104,19 +125,6 @@ My current learning journey focuses on **Deep Learning, AI Agents, MCP Servers, 
 | **[Web Scraping Project](https://github.com/bharat19334/Data-Science-Projects/tree/main/Web%20Scraping/Books%20to%20Scrape)** | Automated web scraping pipeline. | `Python` `BeautifulSoup` `Requests` |
 | **[IPL Match Analysis](https://github.com/bharat19334/Data-Science-Projects/blob/main/IPL%20Match%20Analysis(2008-2026).ipynb)** | EDA on IPL matches and player performance. | `Python` `Pandas` `NumPy` `Matplotlib` |
 | **[Railway Delay Analysis](https://github.com/bharat19334/Data-Science-Projects/blob/main/Railway-delay-analysis.ipynb)** | Railway delay pattern analysis. | `Python` `Pandas` `NumPy` `Matplotlib` |
-
----
-
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats-mocha-two-76.vercel.app/api?username=bharat19334&show_icons=true&theme=dark&count_private=true&hide_border=false" alt="GitHub Statistics" />
-  <img width="48%" src="https://github-readme-stats-mocha-two-76.vercel.app/api/top-langs/?username=bharat19334&layout=compact&theme=dark&hide_border=false" alt="Most Used Languages" />
-</p>
-
-<p align="center">
-  <img width="65%" src="https://streak-stats.demolab.com?user=bharat19334&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
 
 ---
 
