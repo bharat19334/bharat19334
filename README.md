@@ -1,3 +1,6 @@
+<h2>📈 Contribution Activity</h2>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bharat19334&theme=react-dark&hide_border=true" width="100%" />
+
 <div align="center">
 
 <img src="banner.png" alt="Bharat Goswami" width="100%" height="60%" /> 
